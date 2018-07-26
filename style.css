@@ -1,0 +1,19 @@
+.main{
+	width: 100%;
+	background-colour:red;
+	display:flex;
+}
+.left{
+	widht:100%;
+	background-color:blue;
+	border:5px solid;
+}
+.right{
+	width:50%;
+	border:5px solid;
+	background-color:red;
+
+}
+img{
+	width:150px;
+}
